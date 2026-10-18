@@ -34,3 +34,18 @@ The programs successfully demonstrate string manipulation and tuple operations. 
 5. Conclusion
 
 This assignment provides practical knowledge of Python strings and tuples. It helps develop an understanding of basic Python operators, built-in methods, indexing, and slicing, which are essential for programming and data manipulation.
+
+**Python Assignment 2 – Data Structures and Conditional Statements**
+## Objective
+To understand and implement Python data structures such as lists, dictionaries, and sets, and to apply conditional statements using `if`, `elif`, and `else`.
+
+## Topics Covered
+
+1. **List Operations:** Creating lists, appending, inserting, removing, popping, extending, sorting, accessing elements, and finding maximum, minimum, and sum values.
+2. **Dictionary Operations:** Creating a dictionary, accessing student marks, adding and updating entries, and using `keys()`, `values()`, and `items()` methods.
+3. **Set Operations:** Creating sets, understanding duplicate removal, identifying set indexing errors, and performing union and intersection operations.
+4. **Conditional Statements:** Developing a performance category program using `if`, `elif`, and `else` based on a score between 0 and 10.
+
+## Conclusion
+
+This assignment provided practical knowledge of Python data structures and their operations. It helped develop an understanding of list manipulation, dictionary management, set properties, and conditional statements. The performance category program demonstrated how to validate user input and classify scores based on specified conditions.
